@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    padding: 8px;
+    box-shadow: 5px 5px 5px rgb(37, 0, 245);
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+   background-size: auto;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas
+{
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px yellow;
+  padding: 10px;
+  margin: 5px;
+}
+
+#songName
+{
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px white;
+}
