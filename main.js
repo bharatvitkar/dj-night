@@ -9,7 +9,7 @@ music2=loadSound("music2.mp3");
 
 function setup()
 {
-    canvas=createCanvas(600,500);
+    canvas=createCanvas(600,400);
     canvas.center();
     video=createCapture(VIDEO);
     video.hide();
